@@ -47,7 +47,7 @@ class ViewController: UIViewController {
     }
    
   UIView.transition(with: usa4, duration: 1.0, options: [.transitionFlipFromLeft], animations: nil, completion: nil)
-    
+   // ↑なんか効かない
   }
 
 
